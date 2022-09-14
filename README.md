@@ -1,2 +1,1 @@
-# SpaceSurfer-project
-SpaceSurfer server and game code
+# SpaceSurfer = numba one game
